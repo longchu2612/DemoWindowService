@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|c:\\users\\ghm\\source\\repos\\windowserviceschedules\\windowserviceschedules\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\windowserviceschedules\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|c:\\users\\ghm\\source\\repos\\windowserviceschedules\\windowserviceschedules\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\service1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\windowserviceschedules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\windowserviceschedules\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|c:\\users\\ghm\\source\\repos\\windowserviceschedules\\windowserviceschedules\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\schedulevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|c:\\users\\ghm\\source\\repos\\windowserviceschedules\\windowserviceschedules\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{678D66D0-40FD-418D-8583-E002D141E265}|WindowServiceSchedules\\WindowServiceSchedules.csproj|solutionrelative:windowserviceschedules\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\Service1.Designer.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.Designer.cs",
+              "RelativeToolTip": "WindowServiceSchedules\\Service1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:22:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScheduleVM.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\ScheduleVM.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\ScheduleVM.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\ScheduleVM.cs",
+              "RelativeToolTip": "WindowServiceSchedules\\ScheduleVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:21:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Utilities.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\Utilities.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Utilities.cs",
+              "RelativeToolTip": "WindowServiceSchedules\\Utilities.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:39:46.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "WindowServiceSchedules\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:27:31.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\Service1.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.cs",
+              "RelativeToolTip": "WindowServiceSchedules\\Service1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAwwDkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:39:13.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Program.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\Program.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Program.cs",
+              "RelativeToolTip": "WindowServiceSchedules\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:41:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.cs",
+              "RelativeDocumentMoniker": "WindowServiceSchedules\\Service1.cs",
+              "ToolTip": "C:\\Users\\GHM\\source\\repos\\WindowServiceSchedules\\WindowServiceSchedules\\Service1.cs [Design]",
+              "RelativeToolTip": "WindowServiceSchedules\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:38:54.558Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

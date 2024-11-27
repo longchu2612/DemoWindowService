@@ -1,0 +1,9 @@
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\bin\Debug\WindowServiceSchedules.exe.config
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\bin\Debug\WindowServiceSchedules.exe
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\bin\Debug\WindowServiceSchedules.pdb
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.csproj.AssemblyReference.cache
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.ProjectInstaller.resources
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.csproj.GenerateResource.cache
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.csproj.CoreCompileInputs.cache
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.exe
+C:\Users\GHM\source\repos\WindowServiceSchedules\WindowServiceSchedules\obj\Debug\WindowServiceSchedules.pdb
